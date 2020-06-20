@@ -144,8 +144,6 @@ h1.nome::after {
 }
 
 .foto {
-    width: 400px;
-    height: 400px;
     margin: 0 auto;
     border-radius: 50%;
 }
